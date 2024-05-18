@@ -12,12 +12,13 @@ export const shibTokenAddress: Address =
   "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce";
 
 export const alloProxyAddress: Address =
-  "0x1133eA7Af70876e64665ecD07C0A0476d09465a1";
+  "0xE195743480D1591B79106FF9B296A0cD38aDa807";
 
 export const registryProxyAddress: Address =
-  "0x4AAcca72145e1dF2aeC137E1f3C5E3D75DB8b5f3";
+  "0xA3Fd7042F83960398De6ceddbf513F8cac877cbE";
 
+  // DEGEN Address
 export const directGrantsLiteAddress: Address =
-  "0x79A5EEc2C87Cd2116195E71af7A38647f89C8Ffa";
+  "0xf21e0915a0b7c541483962cc7fb4705bbd4d5248";
 
 export const SITE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://";

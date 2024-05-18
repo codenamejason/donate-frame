@@ -34,12 +34,12 @@ export const degen = defineChain({
 });
 
 export const walletClient = createWalletClient({
-  chain: base,
+  chain: degen,
   transport: http(),
 });
 
 export const publicClient = createPublicClient({
-  chain: base,
+  chain: degen,
   transport: http(),
 });
 
